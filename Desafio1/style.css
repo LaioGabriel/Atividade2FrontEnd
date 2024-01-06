@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&family=Open+Sans:wght@400;700&display=swap');
+#title{
+    font-family: 'Dosis', sans-serif;
+    font-weight: 500;
+
+    
+}
+#pink{
+    color: #EE24FF;
+    font-weight: 600    ;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    text-align: center;
+    color: #828282;
+}
+#gray{
+    color: #828282;
+}
+#hero img{
+    margin: auto;
+}
+
+strong{
+    color: #3F3D56;
+}
+a{
+    color: #3F3D56;
+    padding-left: 2.5rem;
+    font-weight: 600;
+    text-decoration: none ;
+    
+}
+#Wave{
+   position:static;
+   width: 92.5rem;
+   height: 6.5rem;
+   bottom: 0px;
+   left: 200px;
+}
